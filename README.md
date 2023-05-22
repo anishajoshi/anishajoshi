@@ -1,11 +1,12 @@
 <h1 align="center"> Hello <img src="hello.gif" width=30px> , Welcome to my lil corner of the internet :) </h1> 
 
+<h3 align="center"> ✨ I love meeting and talking to new people, connect with me ✨  </h3>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/joanisha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"> </a>
 <a href="https://github.com/anishajoshi"> <img src="https://img.shields.io/github/followers/anishajoshi?logo=github&style=for-the-badge" </a>
 <a href="mailto:joshianisha15@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?logo=gmail&logoColor=white&style=for-the-badge"> </a>
 </p>
-
 <!-- i wish i knew a better way to make a simple line -->
 <h1></h1>
 
