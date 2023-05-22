@@ -1,6 +1,6 @@
-<h1 align="center">Hello <img src="public/img/hello.gif" width=30px>, Welcome to my petite corner of the internet 👩‍💻</h1> 
+<h1 align="center"> Hello, Welcome to my petite corner of the internet :) 👩‍💻</h1> 
 
-
+<!-- <img src="hello-hi.gif" width=50px> -->
 
 <p align="left">
 <a href="https://linkedin.com/in/joanisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joanisha" height="30" width="40" /></a>
