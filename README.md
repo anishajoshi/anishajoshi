@@ -1,4 +1,4 @@
-<h1 align="center"> Hello <img src="hello.gif" width=30px> , Welcome to my petite corner of the internet 👩‍💻</h1> 
+<h1 align="center"> Hello <img src="hello.gif" width=30px> , Welcome to my lil corner of the internet :)</h1> 
 
 <!-- <img src="hello-hi.gif" width=50px> -->
 
