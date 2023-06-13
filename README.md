@@ -6,7 +6,7 @@
 <!-- connect w me -->
 
 <h3 align="center"> 
-  ✨ I love meeting and talking to new people, connect with me ✨  
+  ✨ connect with me ✨  
 </h3>
 
 <p align="center">
