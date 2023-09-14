@@ -25,7 +25,7 @@
 <h1></h1>
 
 <p> 🚂 My name's Anisha and I am a third-year student at <a href="https://www.cs.purdue.edu/" target="_blank"> Purdue University </a> studying Computer Science </p>
-<p> 🔭 My current project is creating <a href="https://anishajoshi.github.io/" target="_blank"> my own portfolio </a> </p>
+<p> 🔭 My latest project was creating <a href="https://anishajoshi.github.io/" target="_blank"> my own portfolio over the summer </a> </p>
 <p> 🌱 All type of software and tech fasciantes me and I'm always looking for  opportunites to learn new things! </p>
 <p> 👩‍💻 Some of my recent language explorations have been Java, C and C++ </p>
 
