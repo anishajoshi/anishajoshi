@@ -1,6 +1,6 @@
 <!-- introduction -->
 <h1 align="center"> 
-  Hello, Welcome to my lil corner of the internet :) 
+  Hello <img src="hello.gif" width=30px> , Welcome to my lil corner of the internet :) 
 </h1> 
 
 <!-- connect w me -->
