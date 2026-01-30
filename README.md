@@ -27,7 +27,7 @@
 <p> 🚂 My name's Anisha and I am a '25 graduate from <a href="https://www.cs.purdue.edu/" target="_blank"> Purdue University </a> wityh a degree in Computer Science </p>
 <p> 🔭 My latest project is working on an app called Sportify that aims to be a centralized platform that seamlessly integrates real-time sports data, personalized workout tracking, and nutrition planning. </p>
 <p> 🌱 All type of software and tech fasciantes me and I'm always looking for  opportunites to learn new things! </p>
-<p> 👩‍💻 Some of my recent language explorations have been OpenGL and C++ for my graphics class</p>
+<p> 👩‍💻 Some of my recent language explorations have been OpenGL and C++ </p>
 
 ---
 
