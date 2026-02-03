@@ -24,12 +24,9 @@
 <!-- i wish i knew a better way to make a simple line -->
 <h1></h1>
 
-<p> 🚂 My name's Anisha and I am a '25 graduate from <a href="https://www.cs.purdue.edu/" target="_blank"> Purdue University </a> wityh a degree in Computer Science </p>
-<p> 🔭 My latest project is working on an app called Sportify that aims to be a centralized platform that seamlessly integrates real-time sports data, personalized workout tracking, and nutrition planning. </p>
-<p> 🌱 All type of software and tech fasciantes me and I'm always looking for  opportunites to learn new things! </p>
-<p> 👩‍💻 Some of my recent language explorations have been OpenGL and C++ </p>
-
----
+<p> 🚂 A '25 CS graduate from <a href="https://www.cs.purdue.edu/" target="_blank"> Purdue University </a> </p>
+<p> 🔭 Currently at Eli Lilly working on Clinical Software Delivery </p>
+<p> 🌱 Tech do be cool, so I like all types of it </p>
 
 <!-- tools and frameworks logos -->
 
