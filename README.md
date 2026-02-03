@@ -31,3 +31,13 @@
     <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge&logoWidth=20"> 
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anishajoshi&show_icons=true&theme=radical">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishajoshi&theme=radical">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishajoshi&layout=compact&theme=radical">
+</p>
