@@ -1,11 +1,15 @@
 <!-- introduction -->
 <h1 align="center"> 
-  Hello <img src="hello.gif" width=30px> , Welcome to my lil corner of the internet :) 
-</h1> 
+  <img src="hello.gif" width=30px> Hello!
+</h1>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+lil+corner+of+the+internet+%3A)">
+</p>
 
-<p> 🚂 A '25 CS graduate from <a href="https://www.cs.purdue.edu/" target="_blank"> Purdue University </a> </p>
+<!-- about me -->
+
+<p> 🚂 A '25 CS graduate from <a href="https://www.cs.purdue.edu/" target="_blank">Purdue University</a> </p>
 <p> 🔭 Currently at Eli Lilly working on Clinical Software Delivery </p>
 <p> 🌱 Tech do be cool, so I like all types of it </p>
 
@@ -18,18 +22,12 @@
   </picture>
 </p>
 
-<!-- connect w me -->
-<h3 align="center"> 
-  ✨ connect with me ✨  
-</h3>
+<!-- connect -->
 <p align="center">
   <a href="https://www.linkedin.com/in/joanisha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"> 
-  </a>
-  <a href="https://github.com/anishajoshi"> 
-    <img src="https://img.shields.io/github/followers/anishajoshi?logo=github&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=20"> 
   </a>
   <a href="mailto:joshianisha15@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?logo=gmail&logoColor=white&style=for-the-badge"> 
+    <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge&logoWidth=20"> 
   </a>
 </p>
