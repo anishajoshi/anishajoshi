@@ -28,10 +28,7 @@
 <p> 🔭 Currently at Eli Lilly working on Clinical Software Delivery </p>
 <p> 🌱 Tech do be cool, so I like all types of it </p>
 
-<!-- tools and frameworks logos -->
-
-<h3 align="left"> Tools and frameworks I am familar with </h3>
-
+<!-- cool snake eating contribution -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishajoshi/anishajoshi/output/dist/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anishajoshi/anishajoshi/output/dist/github-snake.svg">
