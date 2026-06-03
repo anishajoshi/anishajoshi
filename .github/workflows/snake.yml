@@ -26,5 +26,5 @@ jobs:
           commit_message: Update snake animation
           branch: output
           create_branch: true
-          push_options: --force
+          push_options: --force-with-lease
           file_pattern: dist/*
